@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439157694327",
+    "project_id": "ott-app-a9250",
+    "storage_bucket": "ott-app-a9250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439157694327:android:7a076968b2768d0790cb72",
+        "android_client_info": {
+          "package_name": "com.example.ott_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439157694327-7irqnhc711ga5i1s3eblqb0gifpeh2gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycFFt28NC5vdLAuobK9hrPcx7gAjxg_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439157694327-7irqnhc711ga5i1s3eblqb0gifpeh2gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
